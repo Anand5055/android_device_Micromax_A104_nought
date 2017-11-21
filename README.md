@@ -31,4 +31,4 @@ Follow the link for more info :- <a href="http://Techguy.ml">Click Here</a>
  </tr>
  </table>
 
-<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3VTcdN_ZarbcTzOvzE8rWxYdEqGPa18lBUZEVuuUXlEE67dZ-1A" alt = "Test Image" width = "250" height = "200" border="3"/>
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3VTcdN_ZarbcTzOvzE8rWxYdEqGPa18lBUZEVuuUXlEE67dZ-1A" alt = "Test Image" width = "250" height = "200"/>
