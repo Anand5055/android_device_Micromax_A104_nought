@@ -1,3 +1,6 @@
 # Micromax A104
-<b>Spec</b>
-Cpu
+<table>
+<tr>
+  <th>cpu</th>
+  </tr>
+</table>
