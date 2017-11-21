@@ -1,6 +1,6 @@
 # Micromax A104
 <table>
 <tr>
-  <th>cpu</th>
+  <th>BASIC</th>
   </tr>
 </table>
