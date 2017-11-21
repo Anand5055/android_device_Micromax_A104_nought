@@ -30,3 +30,5 @@ Follow the link for more info :- <a href="http://Techguy.ml">Click Here</a>
  <td>5.0MP rear</td>
  </tr>
  </table>
+
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3VTcdN_ZarbcTzOvzE8rWxYdEqGPa18lBUZEVuuUXlEE67dZ-1A" alt = "Test Image" />
