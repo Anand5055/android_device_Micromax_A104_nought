@@ -1,7 +1,8 @@
 # Micromax A104
+Follow the link for more info :- <link href="http://Techguy.ml"rel="Click Here">
 <table>
 <tr>
-  <th>basic</th>
+ <th>basic</th>
  <th>Spec</th>
  </tr>
 <tr>
