@@ -1,5 +1,5 @@
 # Micromax A104
-Follow the link for more info :- <a href="http://Techguy.ml">Click Here"</a>
+Follow the link for more info :- <a href="http://Techguy.ml">Click Here</a>
 <table>
 <tr>
  <th>basic</th>
