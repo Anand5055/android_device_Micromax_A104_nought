@@ -1,6 +1,7 @@
 # Micromax A104
 <table>
 <tr>
-  <th>BASIC</th>
-  </tr>
-</table>
+  <th>basic/th>
+ <th>Spec</th>
+ </tr>
+ </table>
